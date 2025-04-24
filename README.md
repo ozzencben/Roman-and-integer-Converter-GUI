@@ -38,16 +38,6 @@ Tkinter kullanılarak basit ve kullanıcı dostu bir arayüzle hazırlanmıştı
 └── README.md           # Proje açıklaması
 ```
 
-## 📸 Ekran Görüntüsü
-
-(İsteğe bağlı olarak bir ekran görüntüsü buraya ekleyebilirsin.)
-
-## 📝 Lisans
-
-Bu proje MIT lisansı ile lisanslanmıştır.
-
----
-
 ### 👤 Geliştirici
 
 - [ozzencben](https://github.com/ozzencben)
